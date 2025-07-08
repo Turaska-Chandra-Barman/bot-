@@ -1398,3 +1398,1043 @@
 2025-07-08 10:56:19,814 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
 2025-07-08 10:56:19,815 - STRATEGY - WARNING - No candle data available
 2025-07-08 10:56:19,815 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:14:26,901 - BOT - INFO - Starting trading bot
+2025-07-08 12:14:26,901 - API - INFO - Connecting to IQ Option API...
+2025-07-08 12:14:33,521 - API - INFO - Connected successfully. Balance: $13840
+2025-07-08 12:14:33,521 - API - INFO - Candle streaming started
+2025-07-08 12:14:33,536 - BOT - INFO - Waiting for candle data...
+2025-07-08 12:14:36,527 - API - INFO - Subscribed to EURUSD candles
+2025-07-08 12:14:36,574 - API - WARNING - Timeout for EURUSD candle
+2025-07-08 12:14:38,633 - API - INFO - Subscribed to GBPUSD candles
+2025-07-08 12:14:39,139 - BOT - INFO - Received initial candle for EURUSD
+2025-07-08 12:14:39,139 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-08 12:14:39,143 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:40,146 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:40,146 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:14:40,146 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:40,148 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:40,148 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:14:45,163 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:45,163 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:45,163 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:14:45,163 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:45,165 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:45,165 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:14:50,172 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:50,172 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:50,172 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:14:50,174 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:50,174 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:50,174 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:14:55,174 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:55,174 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:55,174 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:14:55,176 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:14:55,176 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:14:55,176 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:00,182 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:00,182 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:00,182 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:00,182 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:00,184 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:00,184 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:05,192 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:05,193 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:05,193 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:05,193 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:05,193 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:05,193 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:10,202 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:10,203 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:10,203 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:10,204 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:10,204 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:10,204 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:15,205 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:15,206 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:15,206 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:15,207 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:15,207 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:15,207 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:20,222 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:20,223 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:20,223 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:20,224 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:20,224 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:20,224 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:25,230 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:25,231 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:25,231 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:25,232 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:25,232 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:25,232 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:30,241 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:30,242 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:30,242 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:30,243 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:30,243 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:30,243 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:35,255 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:35,255 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:35,255 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:35,255 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:35,257 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:35,257 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:40,272 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:40,272 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:40,272 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:40,274 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:40,274 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:40,274 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:45,275 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:45,276 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:45,276 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:45,277 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:45,277 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:45,277 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:50,288 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:50,289 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:50,289 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:50,290 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:50,290 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:50,290 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:15:55,305 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:55,305 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:55,305 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:15:55,307 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:15:55,307 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:15:55,307 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:00,318 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:00,320 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:00,320 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:00,321 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:00,321 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:00,321 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:05,323 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:05,324 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:05,324 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:05,325 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:05,325 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:05,325 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:10,339 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:10,340 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:10,340 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:10,341 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:10,341 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:10,341 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:15,356 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:15,357 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:15,357 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:15,358 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:15,358 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:15,358 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:20,365 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:20,366 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:20,366 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:20,367 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:20,367 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:20,367 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:25,381 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:25,382 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:25,382 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:25,383 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:25,383 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:25,383 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:30,397 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:30,397 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:30,397 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:30,399 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:30,399 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:30,399 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:35,414 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:35,415 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:35,415 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:35,416 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:35,416 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:35,416 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:40,428 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:40,429 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:40,429 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:40,430 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:40,430 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:40,430 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:45,435 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:45,436 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:45,436 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:45,436 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:45,437 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:45,437 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:50,441 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:50,442 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:50,442 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:50,442 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:50,443 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:50,443 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:16:55,454 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:55,455 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:55,455 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:16:55,456 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:16:55,456 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:16:55,456 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:00,470 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:00,471 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:00,471 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:00,472 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:00,472 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:00,472 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:05,477 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:05,478 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:05,478 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:05,478 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:05,479 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:05,479 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:10,480 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:10,481 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:10,481 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:10,482 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:10,482 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:10,482 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:15,494 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:15,494 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:15,494 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:15,496 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:15,496 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:15,496 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:20,499 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:20,500 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:20,500 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:20,501 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:20,501 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:20,501 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:25,508 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:25,508 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:25,509 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:25,509 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:25,510 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:25,510 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:30,517 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:30,518 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:30,518 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:30,519 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:30,519 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:30,519 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:35,522 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:35,523 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:35,523 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:35,523 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:35,523 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:35,523 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:40,530 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:40,531 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:40,531 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:40,532 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:40,532 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:40,532 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:45,547 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:45,548 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:45,548 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:45,549 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:45,549 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:45,549 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:50,553 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:50,554 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:50,554 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:50,554 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:50,555 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:50,555 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:17:55,567 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:55,567 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:55,567 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:17:55,568 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:17:55,568 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:17:55,568 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:00,575 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:00,576 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:00,576 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:00,577 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:00,577 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:00,577 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:05,583 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:05,586 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:05,587 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:05,587 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:05,588 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:05,588 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:10,588 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:10,589 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:10,589 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:10,590 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:10,590 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:10,590 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:15,598 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:15,599 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:15,599 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:15,600 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:15,600 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:15,600 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:20,601 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:20,602 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:20,602 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:20,603 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:20,603 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:20,603 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:25,614 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:25,615 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:25,615 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:25,615 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:25,616 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:25,616 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:30,634 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:30,634 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:30,634 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:30,635 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:30,635 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:30,635 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:35,645 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:35,647 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:35,647 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:35,647 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:35,647 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:35,647 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:40,658 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:40,659 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:40,659 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:40,660 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:40,660 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:40,660 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:45,669 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:45,670 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:45,670 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:45,670 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:45,671 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:45,671 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:50,681 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:50,682 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:50,682 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:50,682 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:50,683 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:50,683 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:18:55,684 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:55,685 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:55,685 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:18:55,686 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:18:55,686 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:18:55,686 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:00,688 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:00,689 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:00,689 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:00,690 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:00,690 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:00,691 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:05,696 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:05,697 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:05,697 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:05,698 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:05,698 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:05,698 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:10,699 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:10,699 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:10,700 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:10,700 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:10,701 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:10,701 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:15,707 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:15,708 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:15,708 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:15,709 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:15,709 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:15,709 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:20,714 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:20,714 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:20,715 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:20,715 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:20,715 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:20,716 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:25,718 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:25,719 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:25,719 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:25,720 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:25,720 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:25,720 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:30,724 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:30,725 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:30,725 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:30,726 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:30,726 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:30,726 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:35,735 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:35,736 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:35,736 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:35,737 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:35,737 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:35,737 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:40,742 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:40,743 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:40,743 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:40,743 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:40,744 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:40,744 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:45,757 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:45,758 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:45,758 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:45,759 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:45,759 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:45,759 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:50,768 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:50,769 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:50,769 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:50,770 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:50,770 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:50,770 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:19:55,785 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:55,786 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:55,786 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:19:55,787 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:19:55,787 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:19:55,787 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:00,799 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:00,800 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:00,800 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:00,801 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:00,801 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:00,801 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:05,802 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:05,802 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:05,802 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:05,803 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:05,803 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:05,803 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:10,809 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:10,810 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:10,810 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:10,811 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:10,812 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:10,812 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:15,825 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:15,826 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:15,826 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:15,827 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:15,827 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:15,827 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:20,831 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:20,831 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:20,831 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:20,833 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:20,833 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:20,833 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:25,845 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:25,846 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:25,846 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:25,846 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:25,847 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:25,847 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:30,850 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:30,851 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:30,851 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:30,851 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:30,852 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:30,852 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:35,865 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:35,865 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:35,865 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:35,866 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:35,866 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:35,866 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:40,880 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:40,881 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:40,881 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:40,882 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:40,882 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:40,882 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:45,884 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:45,885 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:45,885 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:45,886 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:45,887 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:45,887 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:50,895 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:50,895 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:50,895 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:50,896 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:50,896 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:50,896 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:20:55,910 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:55,910 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:55,910 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:20:55,912 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:20:55,912 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:20:55,912 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:00,920 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:00,921 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:00,921 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:00,922 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:00,922 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:00,922 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:05,930 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:05,931 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:05,931 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:05,932 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:05,932 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:05,932 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:10,944 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:10,945 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:10,945 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:10,946 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:10,946 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:10,946 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:15,960 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:15,961 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:15,961 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:15,962 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:15,962 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:15,962 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:20,967 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:20,968 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:20,968 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:20,970 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:20,970 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:20,970 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:25,982 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:25,983 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:25,983 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:25,984 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:25,984 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:25,984 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:30,998 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:30,998 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:30,998 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:31,000 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:31,000 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:31,000 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:36,005 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:36,005 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:36,005 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:36,006 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:36,006 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:36,006 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:41,010 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:41,011 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:41,011 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:41,012 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:41,012 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:41,012 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:46,025 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:46,026 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:46,026 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:46,027 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:46,027 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:46,027 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:51,040 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:51,041 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:51,041 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:51,042 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:51,042 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:51,042 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:21:56,052 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:56,052 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:56,052 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:21:56,053 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:21:56,053 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:21:56,053 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:01,057 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:01,057 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:01,057 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:01,059 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:01,059 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:01,059 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:06,065 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:06,066 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:06,066 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:06,066 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:06,067 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:06,067 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:11,074 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:11,075 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:11,075 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:11,076 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:11,076 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:11,076 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:16,089 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:16,090 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:16,090 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:16,091 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:16,091 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:16,091 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:21,093 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:21,094 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:21,094 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:21,095 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:21,096 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:21,096 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:26,104 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:26,104 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:26,105 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:26,105 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:26,105 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:26,106 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:31,115 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:31,115 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:31,115 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:31,116 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:31,116 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:31,116 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:36,122 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:36,123 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:36,123 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:36,123 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:36,124 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:36,124 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:41,125 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:41,125 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:41,125 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:41,127 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:41,127 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:41,127 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:46,139 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:46,140 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:46,140 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:46,141 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:46,141 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:46,141 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:51,146 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:51,147 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:51,147 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:51,148 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:51,148 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:51,148 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:22:56,151 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:56,152 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:56,152 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:22:56,152 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:22:56,153 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:22:56,153 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:01,157 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:01,158 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:01,158 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:01,158 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:01,159 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:01,159 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:06,163 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:06,164 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:06,164 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:06,165 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:06,165 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:06,165 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:11,174 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:11,175 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:11,175 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:11,175 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:11,176 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:11,176 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:16,178 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:16,179 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:16,179 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:16,179 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:16,180 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:16,180 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:21,182 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:21,183 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:21,183 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:21,184 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:21,184 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:21,184 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:26,188 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:26,188 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:26,188 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:26,190 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:26,190 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:26,190 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:31,190 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:31,191 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:31,191 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:31,192 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:31,192 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:31,192 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:36,199 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:36,199 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:36,200 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:36,200 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:36,200 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:36,200 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:41,209 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:41,210 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:41,210 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:41,210 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:41,210 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:41,210 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:46,225 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:46,226 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:46,226 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:46,227 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:46,227 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:46,228 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:51,230 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:51,230 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:51,231 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:51,231 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:51,231 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:51,232 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:23:56,234 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:56,235 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:56,235 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:23:56,236 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:23:56,236 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:23:56,236 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:01,250 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:01,251 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:01,251 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:01,251 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:01,252 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:01,252 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:06,257 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:06,258 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:06,258 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:06,259 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:06,259 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:06,259 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:11,272 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:11,273 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:11,273 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:11,273 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:11,274 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:11,274 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:16,280 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:16,280 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:16,280 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:16,281 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:16,281 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:16,281 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:21,283 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:21,283 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:21,284 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:21,284 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:21,285 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:21,285 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:26,299 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:26,300 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:26,300 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:26,301 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:26,301 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:26,301 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:31,313 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:31,313 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:31,313 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:31,315 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:31,315 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:31,315 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:36,319 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:36,320 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:36,320 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:36,321 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:36,321 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:36,321 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:41,331 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:41,332 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:41,332 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:41,332 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:41,333 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:41,333 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:46,340 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:46,341 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:46,341 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:46,342 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:46,342 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:46,342 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:51,352 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:51,353 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:51,353 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:51,354 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:51,354 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:51,354 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:24:56,363 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:56,364 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:56,364 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:24:56,365 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:24:56,365 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:24:56,365 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:01,379 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:01,380 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:01,380 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:01,381 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:01,381 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:01,381 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:06,401 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:06,402 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:06,402 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:06,403 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:06,403 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:06,403 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:11,404 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:11,405 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:11,405 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:11,406 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:11,406 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:11,406 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:16,420 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:16,420 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:16,420 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:16,421 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:16,421 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:16,421 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:21,422 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:21,423 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:21,423 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:21,424 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:21,424 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:21,424 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:26,435 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:26,436 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:26,436 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:26,437 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:26,437 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:26,437 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:31,448 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:31,449 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:31,449 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:31,449 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:31,450 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:31,450 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:36,453 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:36,454 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:36,454 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:36,455 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:36,455 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:36,455 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:41,469 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:41,470 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:41,470 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:41,471 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:41,471 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:41,471 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:46,480 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:46,481 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:46,481 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:46,482 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:46,482 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:46,482 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:51,494 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:51,495 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:51,495 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:51,496 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:51,496 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:51,496 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:25:56,503 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:56,504 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:56,504 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:25:56,504 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:25:56,505 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:25:56,505 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:01,506 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:01,507 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:01,507 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:01,507 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:01,507 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:01,507 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:06,509 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:06,509 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:06,509 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:06,509 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:06,511 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:06,511 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:11,520 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:11,521 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:11,521 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:11,521 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:11,522 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:11,522 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:16,535 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:16,535 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:16,535 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:16,537 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:16,537 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:16,537 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:21,548 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:21,549 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:21,549 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:21,550 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:21,550 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:21,550 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:26,559 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:26,559 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:26,560 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:26,560 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:26,560 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:26,560 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:31,562 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:31,563 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:31,563 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:31,564 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:31,564 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:31,564 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:36,565 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:36,566 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:36,566 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:36,567 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:36,567 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:36,567 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:41,580 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:41,581 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:41,581 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:41,581 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:41,582 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:41,582 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:46,584 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:46,585 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:46,585 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:46,586 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:46,586 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:46,586 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:51,586 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:51,587 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:51,587 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:51,588 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:51,588 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:51,588 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:26:56,598 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:56,598 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:56,599 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:26:56,599 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:26:56,600 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:26:56,600 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:01,611 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:01,612 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:01,612 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:01,613 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:01,613 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:01,613 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:06,615 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:06,615 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:06,615 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:06,616 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:06,616 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:06,617 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:11,630 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:11,631 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:11,631 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:11,631 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:11,632 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:11,632 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:16,635 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:16,636 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:16,636 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:16,636 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:16,637 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:16,637 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:21,652 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:21,653 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:21,653 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:21,654 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:21,654 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:21,654 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:26,656 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:26,656 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:26,656 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:26,657 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:26,657 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:26,657 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:31,660 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:31,661 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:31,661 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:31,661 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:31,662 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:31,662 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:36,674 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:36,675 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:36,675 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:36,675 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:36,676 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:36,676 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:41,685 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:41,686 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:41,686 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:41,686 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:41,687 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:41,687 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:46,687 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:46,688 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:46,688 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:46,688 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:46,689 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:46,689 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:51,701 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:51,702 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:51,702 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:51,703 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:51,703 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:51,703 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:27:56,715 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:56,716 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:56,716 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:27:56,717 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:27:56,717 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:27:56,717 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:01,730 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:01,731 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:01,731 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:01,731 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:01,732 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:01,732 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:06,746 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:06,747 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:06,747 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:06,748 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:06,748 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:06,748 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:11,751 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:11,752 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:11,752 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:11,753 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:11,753 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:11,753 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:16,767 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:16,768 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:16,768 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:16,768 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:16,769 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:16,769 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:21,779 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:21,780 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:21,780 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:21,781 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:21,781 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:21,781 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:26,794 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:26,795 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:26,795 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:26,795 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:26,796 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:26,796 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:31,808 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:31,808 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:31,808 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:31,810 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:31,810 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:31,810 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:36,816 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:36,816 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:36,816 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:36,818 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:36,818 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:36,818 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:41,829 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:41,829 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:41,829 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:41,829 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:41,831 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:41,831 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:46,832 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:46,833 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:46,833 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:46,833 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:46,833 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:46,833 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:51,834 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:51,834 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:51,834 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 12:28:51,836 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 12:28:51,836 - STRATEGY - WARNING - No candle data available
+2025-07-08 12:28:51,836 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 12:28:55,915 - BOT - INFO - Bot stopped by user
+2025-07-08 12:28:56,051 - API - INFO - Candle streaming stopped
+2025-07-08 12:28:56,051 - API - ERROR - Disconnect error: 'IQ_Option' object has no attribute 'disconnect'
+2025-07-08 12:28:56,051 - BOT - INFO - Bot shutdown
