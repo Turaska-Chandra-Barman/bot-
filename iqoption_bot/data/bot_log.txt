@@ -1,0 +1,1400 @@
+2025-07-04 23:20:37,176 - BOT - INFO - Starting Binary Trading Bot
+2025-07-04 23:27:02,282 - BOT - INFO - Starting Binary Trading Bot
+2025-07-04 23:27:05,788 - API - INFO - Successfully connected. Balance: 100
+2025-07-04 23:27:05,788 - API - ERROR - Connection error: IQ_Option.start_candles_stream() missing 1 required positional argument: 'maxdict'
+2025-07-04 23:27:05,788 - BOT - ERROR - Failed to connect to IQ Option API
+2025-07-04 23:36:48,240 - BOT - INFO - Starting Binary Trading Bot
+2025-07-04 23:36:51,152 - API - INFO - Successfully connected. Balance: 100
+2025-07-04 23:36:51,152 - API - ERROR - Connection error: IQ_Option.start_candles_stream() missing 1 required positional argument: 'maxdict'
+2025-07-04 23:36:51,152 - BOT - ERROR - Failed to connect to IQ Option API
+2025-07-04 23:45:42,010 - BOT - INFO - Starting Binary Trading Bot
+2025-07-04 23:45:44,984 - API - INFO - Successfully connected. Balance: 100
+2025-07-04 23:45:47,443 - API - INFO - Subscribed to EURUSD candles
+2025-07-04 23:45:49,407 - API - INFO - Subscribed to GBPUSD candles
+2025-07-04 23:45:49,407 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:45:54,416 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:46:00,424 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:46:05,435 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:46:11,461 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:46:16,476 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:46:22,489 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:46:27,494 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:46:33,513 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:46:38,516 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:46:44,534 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:46:49,546 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:46:55,548 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:47:00,561 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:47:06,580 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:47:11,582 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:47:17,595 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:47:22,608 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:47:28,624 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:47:33,632 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:47:39,653 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:47:44,655 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:47:50,671 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:47:55,673 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:48:01,681 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:48:06,692 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:48:12,713 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:48:27,025 - BOT - INFO - Starting Binary Trading Bot
+2025-07-04 23:48:30,187 - API - INFO - Successfully connected. Balance: 10000
+2025-07-04 23:48:34,399 - API - INFO - Subscribed to EURUSD candles
+2025-07-04 23:48:39,071 - API - INFO - Subscribed to GBPUSD candles
+2025-07-04 23:48:39,071 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:48:44,081 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:48:50,090 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:48:55,091 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:49:01,115 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:49:06,121 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:49:12,134 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:49:17,140 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:49:23,153 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:49:28,165 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:49:34,178 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:49:39,193 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:49:45,209 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:49:50,223 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:49:56,239 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:50:01,251 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:50:07,265 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:50:12,276 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:50:18,286 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:50:23,294 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:50:29,321 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:50:34,323 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:50:40,348 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:50:45,353 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:50:51,370 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:50:56,384 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:51:02,402 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:51:07,406 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:51:13,422 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:51:18,423 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:51:24,444 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:51:29,457 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:51:35,470 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:51:40,475 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:51:46,488 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:51:51,491 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:51:57,510 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:52:02,521 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:52:08,532 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:52:13,548 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:52:19,574 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:52:24,578 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:52:30,594 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:52:35,595 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:52:41,610 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:52:46,621 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:52:52,636 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:52:57,637 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:53:03,653 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:53:24,241 - BOT - INFO - Starting Binary Trading Bot
+2025-07-04 23:53:28,219 - API - INFO - Successfully connected. Balance: 10000
+2025-07-04 23:53:29,512 - API - INFO - Subscribed to EURUSD candles
+2025-07-04 23:53:30,796 - API - INFO - Subscribed to GBPUSD candles
+2025-07-04 23:53:30,796 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:53:35,801 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:53:41,830 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:53:46,842 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:53:52,853 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:53:57,857 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:54:03,871 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:54:08,879 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:54:14,899 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:54:19,908 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:54:25,921 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:54:30,925 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:54:36,930 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:54:41,934 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:54:47,956 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:54:52,958 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:54:58,967 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:55:03,970 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:55:09,982 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:55:14,990 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:55:21,014 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:55:26,018 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:55:32,028 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:55:37,043 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:55:43,054 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:55:48,058 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:55:54,067 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:55:59,083 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:56:05,102 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:56:10,108 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:56:16,132 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:56:21,137 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:56:27,168 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:56:32,176 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:56:38,190 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:56:43,197 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:56:49,212 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:56:54,217 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:57:00,236 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:57:05,239 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:57:11,259 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:57:16,266 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:57:22,286 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:57:27,287 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:57:33,302 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:57:38,317 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:57:44,340 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:57:49,340 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:57:49,710 - BOT - INFO - Starting Binary Trading Bot
+2025-07-04 23:57:52,561 - API - INFO - Successfully connected. Balance: 10000
+2025-07-04 23:57:53,861 - API - INFO - Subscribed to EURUSD candles
+2025-07-04 23:57:55,351 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:57:56,162 - API - INFO - Subscribed to GBPUSD candles
+2025-07-04 23:57:56,162 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:00,359 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:01,172 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:06,369 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:07,197 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:11,378 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:12,200 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:17,400 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:18,216 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:22,410 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:23,231 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:28,431 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:29,255 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:33,437 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:34,270 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:39,456 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:40,296 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:44,471 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:45,297 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:50,491 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:51,302 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:58:55,491 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:58:56,313 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:01,511 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:02,323 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:06,516 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:07,324 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:12,531 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:13,338 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:17,534 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:18,345 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:23,548 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:24,369 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:28,552 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:29,372 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:34,566 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:35,382 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:39,574 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:40,382 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:45,601 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:46,407 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:50,607 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:51,423 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-04 23:59:56,627 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-04 23:59:57,450 - BOT - ERROR - Error processing asset EURUSD: 'open'
+2025-07-05 00:00:01,642 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-05 00:00:02,461 - BOT - ERROR - Error processing asset GBPUSD: 'open'
+2025-07-05 00:00:07,644 - BOT - INFO - Market closed (weekend). Sleeping...
+2025-07-05 00:00:08,483 - BOT - INFO - Market closed (weekend). Sleeping...
+2025-07-05 00:03:04,204 - BOT - INFO - Bot stopped by user
+2025-07-05 00:03:17,014 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:03:19,881 - API - INFO - Successfully connected. Balance: 14320
+2025-07-05 00:03:22,272 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:03:23,568 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:03:23,568 - BOT - INFO - Market closed (weekend). Sleeping...
+2025-07-05 00:07:10,565 - BOT - INFO - Bot stopped by user
+2025-07-05 00:07:13,540 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:07:17,427 - API - INFO - Successfully connected. Balance: 14320
+2025-07-05 00:07:18,944 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:07:20,493 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:07:20,493 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:20,493 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:21,497 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:21,497 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:22,513 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:22,513 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:23,528 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:23,528 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:24,528 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:24,528 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:25,543 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:25,543 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:26,544 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:26,544 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:27,555 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:27,555 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:28,563 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:28,563 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:29,577 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:29,577 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:30,583 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:30,583 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:31,589 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:31,589 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:32,592 - API - WARNING - No candle data received for EURUSD
+2025-07-05 00:07:32,592 - API - WARNING - No candle data received for GBPUSD
+2025-07-05 00:07:32,616 - BOT - INFO - Bot stopped by user
+2025-07-05 00:11:11,836 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:11:14,773 - API - INFO - Successfully connected. Balance: 14320
+2025-07-05 00:11:17,074 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:11:18,428 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:11:18,428 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:11:19,436 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:11:20,444 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:11:21,451 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:11:22,460 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:11:23,466 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:11:25,482 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:11:26,485 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:11:27,486 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:11:28,499 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:11:29,499 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:11:30,504 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:11:32,513 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:11:33,525 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:11:34,528 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:11:35,535 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:11:36,546 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:11:37,561 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:11:39,571 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:11:40,585 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:11:41,589 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:11:42,593 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:11:43,607 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:11:44,621 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:11:46,641 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:11:47,650 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:11:48,657 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:11:49,672 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:11:50,679 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:11:51,687 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:11:53,715 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:11:54,723 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:11:55,734 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:11:56,747 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:11:57,757 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:11:58,766 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:12:00,779 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:12:01,789 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:12:02,794 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:12:03,804 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:12:04,817 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:12:05,826 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:12:07,840 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:12:08,853 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:12:09,868 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:12:10,882 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:12:11,895 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:12:12,895 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:12:14,925 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:12:15,939 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:12:16,954 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:12:17,964 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:12:18,972 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:12:19,981 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:12:22,006 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:12:23,014 - API - WARNING - No candle data received for EURUSD, attempt 2/3
+2025-07-05 00:12:24,029 - API - WARNING - No candle data received for EURUSD, attempt 3/3
+2025-07-05 00:12:25,030 - API - WARNING - No candle data received for GBPUSD, attempt 1/3
+2025-07-05 00:12:26,043 - API - WARNING - No candle data received for GBPUSD, attempt 2/3
+2025-07-05 00:12:27,044 - API - WARNING - No candle data received for GBPUSD, attempt 3/3
+2025-07-05 00:12:29,050 - API - WARNING - No candle data received for EURUSD, attempt 1/3
+2025-07-05 00:12:29,315 - BOT - INFO - Bot stopped by user
+2025-07-05 00:12:39,104 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:12:42,057 - API - INFO - Successfully connected. Balance: 14320
+2025-07-05 00:12:43,766 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:12:46,342 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:12:51,342 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:12:53,356 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:12:55,359 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:12:57,367 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:12:59,374 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:13:01,381 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:13:03,386 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:13:05,401 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:13:07,406 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:13:09,412 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:13:12,432 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:13:14,442 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:13:16,448 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:13:18,451 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:13:20,463 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:13:22,470 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:13:24,483 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:13:26,495 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:13:28,507 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:13:30,514 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:13:33,539 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:13:35,551 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:13:37,565 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:13:39,576 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:13:41,583 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:13:43,588 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:13:45,603 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:13:47,614 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:13:49,626 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:13:51,630 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:13:54,654 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:13:55,662 - BOT - INFO - Bot stopped by user
+2025-07-05 00:13:58,703 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:14:02,194 - API - INFO - Successfully connected. Balance: 14320
+2025-07-05 00:14:03,751 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:14:05,414 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:14:10,422 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:14:12,430 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:14:14,431 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:14:16,446 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:14:18,447 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:14:20,460 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:14:22,474 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:14:24,480 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:14:26,493 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:14:28,493 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:14:31,500 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:14:33,506 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:14:35,521 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:14:37,525 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:14:39,526 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:14:41,530 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:14:43,537 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:14:45,546 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:14:47,553 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:14:49,563 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:14:52,577 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:14:54,592 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:14:56,596 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:14:58,608 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:15:00,622 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:15:02,634 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:15:04,639 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:15:06,641 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:15:08,649 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:15:10,652 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:15:13,674 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:15:15,678 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:15:17,691 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:15:19,701 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:15:21,703 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:15:23,713 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:15:25,714 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:15:27,726 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:15:29,737 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:15:31,740 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:15:34,754 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:15:36,769 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:15:38,781 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:15:40,790 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:15:42,802 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:15:44,813 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:15:46,825 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:15:48,834 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:15:50,848 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:15:52,851 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:15:55,874 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:15:57,880 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:15:59,885 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:16:01,894 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:16:03,899 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:16:05,910 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:16:07,919 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:16:09,926 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:16:11,928 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:16:13,936 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:16:16,959 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:16:18,966 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:16:20,976 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:16:22,982 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:16:24,989 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:16:26,995 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:16:28,997 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:16:31,004 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:16:33,006 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:16:35,006 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:16:38,014 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:16:40,029 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:16:42,030 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:16:44,042 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:16:46,056 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:16:48,060 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:16:50,067 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:16:52,071 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:16:54,078 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:16:56,084 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:16:59,098 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:17:01,102 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:17:03,114 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:17:05,115 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:17:07,118 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:17:09,131 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:17:11,132 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:17:13,133 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:17:15,134 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:17:17,135 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:17:20,150 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:17:22,162 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:17:24,163 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:17:26,177 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:17:28,181 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:17:30,184 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:17:32,188 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:17:34,196 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:17:36,199 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:17:38,211 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:17:41,230 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:17:43,242 - API - WARNING - No candle data received for EURUSD, attempt 2/5
+2025-07-05 00:17:45,248 - API - WARNING - No candle data received for EURUSD, attempt 3/5
+2025-07-05 00:17:47,250 - API - WARNING - No candle data received for EURUSD, attempt 4/5
+2025-07-05 00:17:49,253 - API - WARNING - No candle data received for EURUSD, attempt 5/5
+2025-07-05 00:17:51,267 - API - WARNING - No candle data received for GBPUSD, attempt 1/5
+2025-07-05 00:17:53,267 - API - WARNING - No candle data received for GBPUSD, attempt 2/5
+2025-07-05 00:17:55,277 - API - WARNING - No candle data received for GBPUSD, attempt 3/5
+2025-07-05 00:17:57,280 - API - WARNING - No candle data received for GBPUSD, attempt 4/5
+2025-07-05 00:17:59,280 - API - WARNING - No candle data received for GBPUSD, attempt 5/5
+2025-07-05 00:18:02,292 - API - WARNING - No candle data received for EURUSD, attempt 1/5
+2025-07-05 00:18:03,336 - BOT - INFO - Bot stopped by user
+2025-07-05 00:18:06,257 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:18:06,257 - API - INFO - Attempting to connect to IQ Option API...
+2025-07-05 00:18:06,257 - API - ERROR - Connection error: 'IQ_Option' object has no attribute 'set_max_reconnect'
+2025-07-05 00:18:06,258 - BOT - ERROR - Failed to connect to IQ Option API
+2025-07-05 00:24:37,948 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:24:37,948 - API - INFO - Attempting to connect to IQ Option API...
+2025-07-05 00:24:40,760 - API - INFO - Connection established. Verifying credentials...
+2025-07-05 00:24:41,278 - API - INFO - Successfully connected. Balance: 14320
+2025-07-05 00:24:41,278 - API - ERROR - Candle streaming worker error: IQ_Option.start_candles_stream() missing 1 required positional argument: 'maxdict'
+2025-07-05 00:24:41,278 - API - INFO - Candle streaming thread started
+2025-07-05 00:24:46,286 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:24:51,288 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:24:57,297 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:25:02,311 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:25:08,312 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:25:13,322 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:25:19,346 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:25:24,348 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:25:30,363 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:25:35,377 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:25:41,395 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:25:46,406 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:25:52,431 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:25:57,431 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:26:03,434 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:26:08,437 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:26:14,447 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:26:19,456 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:26:25,471 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:26:30,473 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:26:36,476 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:26:41,489 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:26:47,505 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:26:52,519 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:26:58,535 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:27:03,536 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:27:09,551 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:27:14,552 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:27:20,567 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:27:25,567 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:27:31,572 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:27:36,576 - API - WARNING - Timeout waiting for GBPUSD candle data
+2025-07-05 00:27:42,603 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:28:02,202 - BOT - INFO - Starting Binary Trading Bot
+2025-07-05 00:28:02,202 - API - INFO - Attempting to connect to IQ Option API...
+2025-07-05 00:28:05,773 - API - INFO - Successfully connected. Balance: 14320
+2025-07-05 00:28:05,773 - API - INFO - Candle streaming thread started
+2025-07-05 00:28:08,292 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:28:08,811 - API - WARNING - Timeout waiting for EURUSD candle data
+2025-07-05 00:28:09,924 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:28:09,924 - BOT - ERROR - Error processing asset GBPUSD: If using all scalar values, you must pass an index
+2025-07-05 00:28:15,934 - BOT - ERROR - Error processing asset EURUSD: If using all scalar values, you must pass an index
+2025-07-05 00:28:19,304 - BOT - INFO - Bot stopped by user
+2025-07-05 00:34:53,005 - BOT - INFO - Starting trading bot
+2025-07-05 00:34:53,005 - API - INFO - Connecting to IQ Option API...
+2025-07-05 00:34:55,920 - API - INFO - Connected successfully. Balance: $14320
+2025-07-05 00:34:55,920 - API - INFO - Candle streaming started
+2025-07-05 00:34:55,944 - BOT - INFO - Waiting for candle data...
+2025-07-05 00:34:57,430 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:34:58,973 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 00:34:59,538 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:35:00,041 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 00:35:00,041 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 00:35:00,041 - BOT - INFO - Weekend - sleeping
+2025-07-05 00:38:10,955 - BOT - INFO - Bot stopped by user
+2025-07-05 00:38:15,963 - API - INFO - Candle streaming stopped
+2025-07-05 00:38:15,963 - API - ERROR - Disconnect error: 'IQ_Option' object has no attribute 'disconnect'
+2025-07-05 00:38:15,963 - BOT - INFO - Bot shutdown
+2025-07-05 00:38:19,122 - BOT - INFO - Starting trading bot
+2025-07-05 00:38:19,122 - API - INFO - Connecting to IQ Option API...
+2025-07-05 00:38:23,621 - API - INFO - Connected successfully. Balance: $14320
+2025-07-05 00:38:23,621 - API - INFO - Candle streaming started
+2025-07-05 00:38:23,651 - BOT - INFO - Waiting for candle data...
+2025-07-05 00:38:25,119 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 00:38:26,690 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 00:38:28,028 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 00:38:28,533 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 00:38:28,533 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 00:41:50,897 - BOT - INFO - Signal: GBPUSD PUT
+2025-07-05 00:41:50,897 - API - ERROR - Trade error: 'IQ_Option' object has no attribute 'check_asset_open'
+2025-07-05 00:41:50,897 - BOT - ERROR - Trade placement failed
+2025-07-05 00:44:16,101 - BOT - INFO - Signal: GBPUSD PUT
+2025-07-05 00:44:16,101 - API - ERROR - Trade error: 'IQ_Option' object has no attribute 'check_asset_open'
+2025-07-05 00:44:16,101 - BOT - ERROR - Trade placement failed
+2025-07-05 00:45:56,228 - BOT - INFO - Signal: GBPUSD PUT
+2025-07-05 00:45:56,228 - API - ERROR - Trade error: 'IQ_Option' object has no attribute 'check_asset_open'
+2025-07-05 00:45:56,228 - BOT - ERROR - Trade placement failed
+2025-07-05 01:00:05,684 - BOT - INFO - Bot stopped by user
+2025-07-05 01:00:13,416 - BOT - INFO - Starting trading bot
+2025-07-05 01:00:13,416 - API - INFO - Connecting to IQ Option API...
+2025-07-05 01:00:15,761 - API - INFO - Connected successfully. Balance: $14320
+2025-07-05 01:00:15,761 - API - INFO - Candle streaming started
+2025-07-05 01:00:15,792 - BOT - INFO - Waiting for candle data...
+2025-07-05 01:00:17,226 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 01:00:18,829 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 01:00:20,046 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 01:00:20,551 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 01:00:20,551 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 01:02:51,842 - BOT - INFO - Signal: GBPUSD PUT
+2025-07-05 01:02:51,842 - API - ERROR - GBPUSD not open for trading
+2025-07-05 01:02:51,843 - BOT - ERROR - Trade placement failed
+2025-07-05 01:11:50,070 - BOT - INFO - Bot stopped by user
+2025-07-05 01:11:55,083 - API - INFO - Candle streaming stopped
+2025-07-05 01:11:55,083 - API - ERROR - Disconnect error: 'IQ_Option' object has no attribute 'disconnect'
+2025-07-05 01:11:55,083 - BOT - INFO - Bot shutdown
+2025-07-05 01:11:58,795 - BOT - INFO - Starting trading bot
+2025-07-05 01:11:58,795 - API - INFO - Connecting to IQ Option API...
+2025-07-05 01:12:01,559 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 01:12:01,559 - API - INFO - Candle streaming started
+2025-07-05 01:12:01,589 - BOT - INFO - Waiting for candle data...
+2025-07-05 01:12:04,070 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 01:12:04,642 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 01:12:05,951 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 01:12:06,456 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 01:12:06,456 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 01:32:22,980 - BOT - INFO - Bot stopped by user
+2025-07-05 01:32:26,176 - BOT - INFO - Starting trading bot
+2025-07-05 01:32:26,177 - API - INFO - Connecting to IQ Option API...
+2025-07-05 01:32:28,882 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 01:32:28,882 - API - INFO - Candle streaming started
+2025-07-05 01:32:28,898 - BOT - INFO - Waiting for candle data...
+2025-07-05 01:32:30,389 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 01:32:31,928 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 01:32:32,367 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 01:32:32,937 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 01:32:32,937 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 01:41:42,601 - BOT - INFO - Bot stopped by user
+2025-07-05 01:41:45,877 - BOT - INFO - Starting trading bot
+2025-07-05 01:41:45,877 - API - INFO - Connecting to IQ Option API...
+2025-07-05 01:41:48,386 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 01:41:48,386 - API - INFO - Candle streaming started
+2025-07-05 01:41:48,409 - BOT - INFO - Waiting for candle data...
+2025-07-05 01:41:49,866 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 01:41:51,437 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 01:41:51,698 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 01:41:52,446 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 01:41:52,446 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 01:42:32,801 - BOT - INFO - Signal: EURUSD PUT
+2025-07-05 01:42:33,848 - API - INFO - Trade placed: EURUSD put $5
+2025-07-05 01:43:33,855 - BOT - ERROR - Asset EURUSD error: 'IQOptionAPI' object has no attribute 'check_trade_result'
+2025-07-05 01:46:40,067 - BOT - INFO - Bot stopped by user
+2025-07-05 01:46:43,325 - BOT - INFO - Starting trading bot
+2025-07-05 01:46:43,325 - API - INFO - Connecting to IQ Option API...
+2025-07-05 01:46:46,644 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 01:46:46,644 - API - INFO - Candle streaming started
+2025-07-05 01:46:46,672 - BOT - INFO - Waiting for candle data...
+2025-07-05 01:46:48,140 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 01:46:49,712 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 01:46:49,951 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 01:46:50,721 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 01:46:50,721 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 01:49:06,120 - BOT - INFO - Bot stopped by user
+2025-07-05 01:49:06,153 - API - INFO - Candle streaming stopped
+2025-07-05 01:49:06,153 - API - ERROR - Disconnect error: 'IQ_Option' object has no attribute 'disconnect'
+2025-07-05 01:49:06,153 - BOT - INFO - Bot shutdown
+2025-07-05 01:49:09,465 - BOT - INFO - Starting trading bot
+2025-07-05 01:49:09,465 - API - INFO - Connecting to IQ Option API...
+2025-07-05 01:49:12,252 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 01:49:12,252 - API - INFO - Candle streaming started
+2025-07-05 01:49:12,275 - BOT - INFO - Waiting for candle data...
+2025-07-05 01:49:13,734 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 01:49:15,319 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 01:49:15,566 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 01:49:16,325 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 01:49:16,325 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 08:31:55,769 - BOT - INFO - Starting trading bot
+2025-07-05 08:31:55,769 - API - INFO - Connecting to IQ Option API...
+2025-07-05 08:31:59,406 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 08:31:59,406 - API - INFO - Candle streaming started
+2025-07-05 08:31:59,432 - BOT - INFO - Waiting for candle data...
+2025-07-05 08:32:00,887 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 08:32:02,461 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 08:32:02,736 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 08:32:03,470 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 08:32:03,470 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 08:32:03,470 - BOT - INFO - Weekend - sleeping
+2025-07-05 08:33:28,014 - BOT - INFO - Bot stopped by user
+2025-07-05 08:33:31,149 - BOT - INFO - Starting trading bot
+2025-07-05 08:33:31,149 - API - INFO - Connecting to IQ Option API...
+2025-07-05 08:33:34,270 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 08:33:34,272 - API - INFO - Candle streaming started
+2025-07-05 08:33:34,272 - BOT - INFO - Waiting for candle data...
+2025-07-05 08:33:35,752 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 08:33:37,289 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 08:33:38,586 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 08:33:39,089 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 08:33:39,089 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 08:33:39,089 - BOT - INFO - Weekend - sleeping
+2025-07-05 08:35:11,813 - BOT - INFO - Bot stopped by user
+2025-07-05 08:35:14,243 - BOT - INFO - Starting trading bot
+2025-07-05 08:35:14,243 - API - INFO - Connecting to IQ Option API...
+2025-07-05 08:35:17,283 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 08:35:17,283 - API - INFO - Candle streaming started
+2025-07-05 08:35:17,302 - BOT - INFO - Waiting for candle data...
+2025-07-05 08:35:18,768 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 08:35:20,325 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 08:35:20,621 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 08:35:21,337 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 08:35:21,337 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 08:35:21,337 - BOT - INFO - Weekend - sleeping
+2025-07-05 08:41:40,299 - BOT - INFO - Bot stopped by user
+2025-07-05 08:41:44,057 - BOT - INFO - Starting trading bot
+2025-07-05 08:41:44,059 - API - INFO - Connecting to IQ Option API...
+2025-07-05 08:41:46,671 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 08:41:46,671 - API - INFO - Candle streaming started
+2025-07-05 08:41:46,702 - BOT - INFO - Waiting for candle data...
+2025-07-05 08:41:48,168 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 08:41:49,738 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 08:41:50,005 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 08:41:50,747 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 08:41:50,747 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 09:57:02,977 - BOT - INFO - Starting trading bot
+2025-07-05 09:57:02,977 - API - INFO - Connecting to IQ Option API...
+2025-07-05 09:57:06,240 - API - INFO - Connected successfully. Balance: $14750
+2025-07-05 09:57:06,240 - API - INFO - Candle streaming started
+2025-07-05 09:57:06,241 - BOT - INFO - Waiting for candle data...
+2025-07-05 09:57:07,772 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 09:57:09,287 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 09:57:09,634 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 09:57:10,295 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 09:57:10,295 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 11:38:24,854 - BOT - INFO - Starting trading bot
+2025-07-05 11:38:24,854 - API - INFO - Connecting to IQ Option API...
+2025-07-05 11:38:27,403 - API - INFO - Connected successfully. Balance: $13840
+2025-07-05 11:38:27,403 - API - INFO - Candle streaming started
+2025-07-05 11:38:27,433 - BOT - INFO - Waiting for candle data...
+2025-07-05 11:38:28,884 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 11:38:30,472 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 11:38:30,707 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 11:38:31,473 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 11:38:31,473 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 12:07:06,015 - iqoptionapi.ws.client - ERROR - Connection is already closed.
+2025-07-05 12:41:02,877 - BOT - INFO - Starting trading bot
+2025-07-05 12:41:02,879 - API - INFO - Connecting to IQ Option API...
+2025-07-05 12:41:08,830 - API - INFO - Connected successfully. Balance: $13840
+2025-07-05 12:41:08,830 - API - INFO - Candle streaming started
+2025-07-05 12:41:08,852 - BOT - INFO - Waiting for candle data...
+2025-07-05 12:41:10,643 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 12:41:11,883 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 12:41:12,751 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 12:41:13,253 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 12:41:13,253 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 13:34:01,471 - BOT - INFO - Starting trading bot
+2025-07-05 13:34:01,471 - API - INFO - Connecting to IQ Option API...
+2025-07-05 13:34:06,782 - API - INFO - Connected successfully. Balance: $13840
+2025-07-05 13:34:06,782 - API - INFO - Candle streaming started
+2025-07-05 13:34:06,806 - BOT - INFO - Waiting for candle data...
+2025-07-05 13:34:09,601 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 13:34:09,849 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 13:34:12,715 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 13:34:13,225 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 13:34:13,225 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 13:38:20,369 - BOT - INFO - Bot stopped by user
+2025-07-05 13:38:20,458 - API - INFO - Candle streaming stopped
+2025-07-05 13:38:20,458 - API - ERROR - Disconnect error: 'IQ_Option' object has no attribute 'disconnect'
+2025-07-05 13:38:20,458 - BOT - INFO - Bot shutdown
+2025-07-05 13:38:25,264 - BOT - INFO - Starting trading bot
+2025-07-05 13:38:25,264 - API - INFO - Connecting to IQ Option API...
+2025-07-05 13:38:31,554 - API - INFO - Connected successfully. Balance: $13840
+2025-07-05 13:38:31,554 - API - INFO - Candle streaming started
+2025-07-05 13:38:31,577 - BOT - INFO - Waiting for candle data...
+2025-07-05 13:38:33,366 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 13:38:34,608 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 13:38:35,396 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 13:38:35,900 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 13:38:35,900 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 21:51:08,131 - BOT - INFO - Starting trading bot
+2025-07-05 21:51:08,131 - API - INFO - Connecting to IQ Option API...
+2025-07-05 21:51:14,840 - API - INFO - Connected successfully. Balance: $13840
+2025-07-05 21:51:14,842 - API - INFO - Candle streaming started
+2025-07-05 21:51:14,855 - BOT - INFO - Waiting for candle data...
+2025-07-05 21:51:16,827 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 21:51:17,902 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 21:51:21,926 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 21:51:21,943 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 21:51:22,944 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 21:51:22,944 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 22:04:24,870 - iqoptionapi.ws.client - ERROR - Connection is already closed.
+2025-07-05 22:09:32,196 - BOT - INFO - Bot stopped by user
+2025-07-05 22:09:32,276 - API - INFO - Candle streaming stopped
+2025-07-05 22:09:32,276 - API - ERROR - Disconnect error: 'IQ_Option' object has no attribute 'disconnect'
+2025-07-05 22:09:32,276 - BOT - INFO - Bot shutdown
+2025-07-05 22:09:36,548 - BOT - INFO - Starting trading bot
+2025-07-05 22:09:36,548 - API - INFO - Connecting to IQ Option API...
+2025-07-05 22:09:43,109 - API - INFO - Connected successfully. Balance: $13840
+2025-07-05 22:09:43,109 - API - INFO - Candle streaming started
+2025-07-05 22:09:43,136 - BOT - INFO - Waiting for candle data...
+2025-07-05 22:09:46,169 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 22:09:46,330 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 22:09:48,735 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 22:09:49,241 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 22:09:49,241 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-05 22:14:11,578 - BOT - INFO - Bot stopped by user
+2025-07-05 22:14:12,000 - API - INFO - Candle streaming stopped
+2025-07-05 22:14:12,000 - API - ERROR - Disconnect error: 'IQ_Option' object has no attribute 'disconnect'
+2025-07-05 22:14:12,000 - BOT - INFO - Bot shutdown
+2025-07-05 22:22:15,083 - BOT - INFO - Starting trading bot
+2025-07-05 22:22:15,083 - API - INFO - Connecting to IQ Option API...
+2025-07-05 22:22:20,952 - API - INFO - Connected successfully. Balance: $13840
+2025-07-05 22:22:20,952 - API - INFO - Candle streaming started
+2025-07-05 22:22:20,986 - BOT - INFO - Waiting for candle data...
+2025-07-05 22:22:23,027 - API - INFO - Subscribed to EURUSD candles
+2025-07-05 22:22:24,020 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 22:22:28,089 - API - WARNING - Timeout for EURUSD candle
+2025-07-05 22:22:29,209 - API - INFO - Subscribed to GBPUSD candles
+2025-07-05 22:22:29,717 - BOT - INFO - Received initial candle for EURUSD
+2025-07-05 22:22:29,717 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-06 10:36:21,541 - BOT - INFO - Starting trading bot
+2025-07-06 10:36:21,543 - API - INFO - Connecting to IQ Option API...
+2025-07-06 10:36:25,443 - API - INFO - Connected successfully. Balance: $13840
+2025-07-06 10:36:25,443 - API - INFO - Candle streaming started
+2025-07-06 10:36:25,472 - BOT - INFO - Waiting for candle data...
+2025-07-06 10:36:26,901 - API - INFO - Subscribed to EURUSD candles
+2025-07-06 10:36:28,505 - API - WARNING - Timeout for EURUSD candle
+2025-07-06 10:36:28,880 - API - INFO - Subscribed to GBPUSD candles
+2025-07-06 10:36:29,513 - BOT - INFO - Received initial candle for EURUSD
+2025-07-06 10:36:29,513 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-08 10:47:34,395 - BOT - INFO - Starting trading bot
+2025-07-08 10:47:34,395 - API - INFO - Connecting to IQ Option API...
+2025-07-08 10:47:40,994 - API - INFO - Connected successfully. Balance: $13840
+2025-07-08 10:47:40,994 - API - INFO - Candle streaming started
+2025-07-08 10:47:41,017 - BOT - INFO - Waiting for candle data...
+2025-07-08 10:47:43,998 - API - INFO - Subscribed to EURUSD candles
+2025-07-08 10:47:44,044 - API - WARNING - Timeout for EURUSD candle
+2025-07-08 10:47:47,279 - API - INFO - Subscribed to GBPUSD candles
+2025-07-08 10:47:47,782 - BOT - INFO - Received initial candle for EURUSD
+2025-07-08 10:47:47,782 - BOT - INFO - Received initial candle for GBPUSD
+2025-07-08 10:47:47,786 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:47:48,791 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:47:48,791 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:47:48,793 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:47:48,793 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:47:48,793 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:47:53,807 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:47:53,807 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:47:53,807 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:47:53,807 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:47:53,809 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:47:53,809 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:47:58,816 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:47:58,817 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:47:58,817 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:47:58,817 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:47:58,817 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:47:58,817 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:03,824 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:03,825 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:03,825 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:03,826 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:03,826 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:03,826 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:08,827 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:08,827 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:08,827 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:08,830 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:08,830 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:08,830 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:13,844 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:13,844 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:13,844 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:13,846 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:13,846 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:13,846 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:18,850 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:18,851 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:18,851 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:18,851 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:18,852 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:18,852 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:23,857 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:23,858 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:23,858 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:23,859 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:23,859 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:23,859 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:28,870 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:28,871 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:28,871 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:28,871 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:28,872 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:28,872 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:33,875 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:33,876 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:33,876 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:33,877 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:33,877 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:33,878 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:38,893 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:38,894 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:38,894 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:38,894 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:38,895 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:38,895 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:43,904 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:43,905 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:43,905 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:43,905 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:43,906 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:43,906 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:48,907 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:48,908 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:48,908 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:48,908 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:48,909 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:48,909 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:53,916 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:53,916 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:53,916 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:53,917 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:53,917 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:53,917 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:48:58,926 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:58,926 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:58,926 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:48:58,927 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:48:58,927 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:48:58,927 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:03,943 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:03,943 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:03,943 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:03,944 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:03,944 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:03,944 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:08,944 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:08,945 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:08,945 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:08,946 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:08,946 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:08,946 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:13,958 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:13,959 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:13,959 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:13,959 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:13,960 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:13,960 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:18,968 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:18,969 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:18,969 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:18,969 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:18,969 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:18,970 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:23,982 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:23,982 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:23,983 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:23,983 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:23,983 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:23,983 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:28,999 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:29,001 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:29,001 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:29,001 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:29,001 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:29,001 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:34,007 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:34,007 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:34,007 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:34,008 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:34,008 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:34,008 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:39,014 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:39,015 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:39,015 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:39,016 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:39,016 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:39,016 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:44,028 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:44,029 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:44,029 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:44,030 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:44,030 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:44,030 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:49,044 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:49,045 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:49,045 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:49,046 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:49,046 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:49,046 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:54,053 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:54,054 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:54,054 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:54,055 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:54,055 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:54,055 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:49:59,065 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:59,066 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:59,066 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:49:59,066 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:49:59,067 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:49:59,067 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:04,068 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:04,069 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:04,069 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:04,069 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:04,070 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:04,070 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:09,085 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:09,086 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:09,086 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:09,087 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:09,087 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:09,087 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:14,092 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:14,093 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:14,093 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:14,093 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:14,094 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:14,094 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:19,098 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:19,098 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:19,098 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:19,099 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:19,099 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:19,100 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:24,115 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:24,116 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:24,116 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:24,116 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:24,117 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:24,117 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:29,123 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:29,124 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:29,124 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:29,124 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:29,125 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:29,125 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:34,130 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:34,131 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:34,131 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:34,132 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:34,132 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:34,132 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:39,135 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:39,136 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:39,136 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:39,137 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:39,137 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:39,137 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:44,151 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:44,152 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:44,152 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:44,153 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:44,153 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:44,153 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:49,155 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:49,156 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:49,156 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:49,157 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:49,157 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:49,157 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:54,160 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:54,161 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:54,161 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:54,162 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:54,162 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:54,162 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:50:59,174 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:59,175 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:59,175 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:50:59,175 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:50:59,176 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:50:59,176 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:04,183 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:04,184 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:04,184 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:04,185 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:04,185 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:04,185 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:09,193 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:09,194 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:09,194 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:09,194 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:09,195 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:09,195 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:14,209 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:14,210 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:14,210 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:14,211 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:14,211 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:14,212 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:19,215 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:19,216 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:19,216 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:19,216 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:19,217 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:19,217 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:24,229 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:24,230 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:24,230 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:24,231 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:24,231 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:24,231 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:29,234 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:29,235 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:29,235 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:29,235 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:29,236 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:29,236 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:34,249 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:34,250 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:34,250 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:34,251 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:34,251 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:34,251 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:39,253 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:39,254 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:39,254 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:39,255 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:39,255 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:39,255 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:44,268 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:44,269 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:44,269 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:44,269 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:44,270 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:44,270 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:49,274 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:49,275 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:49,275 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:49,275 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:49,276 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:49,276 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:54,283 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:54,284 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:54,284 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:54,285 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:54,285 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:54,285 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:51:59,290 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:59,291 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:59,291 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:51:59,291 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:51:59,292 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:51:59,292 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:04,296 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:04,297 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:04,297 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:04,297 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:04,298 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:04,298 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:09,299 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:09,300 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:09,300 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:09,301 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:09,301 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:09,301 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:14,317 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:14,318 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:14,318 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:14,318 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:14,319 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:14,319 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:19,329 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:19,330 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:19,330 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:19,331 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:19,331 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:19,331 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:24,335 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:24,336 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:24,336 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:24,337 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:24,337 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:24,337 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:29,348 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:29,349 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:29,349 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:29,349 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:29,350 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:29,350 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:34,352 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:34,352 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:34,352 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:34,353 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:34,353 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:34,353 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:39,365 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:39,366 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:39,366 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:39,367 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:39,367 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:39,367 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:44,372 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:44,373 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:44,373 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:44,373 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:44,374 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:44,374 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:49,378 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:49,379 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:49,379 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:49,380 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:49,381 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:49,381 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:54,392 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:54,393 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:54,393 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:54,394 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:54,394 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:54,394 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:52:59,401 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:59,402 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:59,402 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:52:59,403 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:52:59,403 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:52:59,403 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:04,410 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:04,411 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:04,411 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:04,411 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:04,412 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:04,412 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:09,424 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:09,425 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:09,425 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:09,425 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:09,426 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:09,426 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:14,430 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:14,430 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:14,430 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:14,432 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:14,432 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:14,432 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:19,434 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:19,435 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:19,435 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:19,435 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:19,436 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:19,436 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:24,447 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:24,449 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:24,449 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:24,449 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:24,449 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:24,450 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:29,451 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:29,452 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:29,452 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:29,452 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:29,453 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:29,453 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:34,461 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:34,462 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:34,462 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:34,462 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:34,463 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:34,463 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:39,472 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:39,473 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:39,473 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:39,474 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:39,474 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:39,474 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:44,477 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:44,478 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:44,478 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:44,478 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:44,479 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:44,479 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:49,483 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:49,484 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:49,484 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:49,485 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:49,485 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:49,485 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:54,491 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:54,492 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:54,492 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:54,492 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:54,493 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:54,493 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:53:59,502 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:59,503 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:59,503 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:53:59,504 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:53:59,504 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:53:59,504 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:04,518 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:04,519 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:04,519 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:04,519 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:04,520 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:04,520 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:09,532 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:09,533 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:09,533 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:09,534 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:09,534 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:09,534 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:14,540 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:14,541 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:14,541 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:14,541 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:14,542 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:14,542 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:19,543 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:19,544 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:19,544 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:19,545 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:19,545 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:19,545 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:24,555 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:24,556 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:24,556 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:24,557 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:24,557 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:24,557 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:29,566 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:29,567 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:29,567 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:29,568 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:29,568 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:29,568 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:34,583 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:34,584 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:34,584 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:34,585 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:34,585 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:34,585 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:39,600 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:39,601 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:39,601 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:39,602 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:39,602 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:39,602 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:44,606 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:44,607 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:44,607 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:44,607 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:44,608 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:44,608 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:49,614 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:49,615 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:49,615 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:49,616 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:49,616 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:49,616 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:54,631 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:54,632 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:54,632 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:54,633 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:54,633 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:54,633 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:54:59,642 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:59,643 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:59,643 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:54:59,643 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:54:59,644 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:54:59,644 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:04,649 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:04,650 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:04,650 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:04,651 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:04,651 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:04,651 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:09,653 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:09,654 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:09,654 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:09,654 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:09,655 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:09,655 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:14,665 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:14,666 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:14,666 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:14,666 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:14,667 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:14,667 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:19,678 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:19,679 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:19,679 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:19,679 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:19,680 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:19,680 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:24,690 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:24,691 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:24,691 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:24,691 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:24,693 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:24,693 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:29,698 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:29,699 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:29,699 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:29,700 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:29,700 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:29,700 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:34,711 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:34,712 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:34,712 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:34,713 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:34,713 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:34,713 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:39,726 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:39,727 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:39,727 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:39,728 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:39,728 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:39,728 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:44,735 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:44,736 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:44,736 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:44,736 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:44,737 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:44,737 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:49,738 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:49,739 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:49,739 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:49,739 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:49,740 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:49,740 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:54,751 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:54,752 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:54,752 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:54,752 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:54,753 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:54,753 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:55:59,763 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:59,764 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:59,764 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:55:59,764 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:55:59,765 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:55:59,765 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:56:04,777 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:04,778 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:04,778 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:56:04,778 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:04,779 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:04,779 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:56:09,794 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:09,795 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:09,795 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:56:09,795 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:09,796 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:09,796 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:56:14,796 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:14,797 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:14,797 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:56:14,797 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:14,798 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:14,798 - BOT - WARNING - No indicators for GBPUSD
+2025-07-08 10:56:19,813 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:19,814 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:19,814 - BOT - WARNING - No indicators for EURUSD
+2025-07-08 10:56:19,814 - BOT - ERROR - Error getting multi-timeframe data: IQOptionAPI.get_candle_history() got an unexpected keyword argument 'timeframe'
+2025-07-08 10:56:19,815 - STRATEGY - WARNING - No candle data available
+2025-07-08 10:56:19,815 - BOT - WARNING - No indicators for GBPUSD
